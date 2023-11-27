@@ -1,0 +1,98 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: antiqua;
+}
+html {
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-03/1614624765_2-p-fon-lesa-dlya-fotoshopa-2.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+header {
+	background-color: #0cab39;
+	text-align: center;
+	padding: 40px;
+	font-size:calc(13px + 2vw); 
+	font-family: sans-serif;
+	box-shadow: 0 5px 5px black;
+}
+
+li {display: inline;}
+
+a {text-decoration: none;
+color: black;}
+a:hover { color:orangered; }
+section {text-align: center;
+margin-top: 20px;
+
+
+
+
+
+
+
+}
+
+ .p2 {
+ 	
+background-color: yellowgreen;
+
+box-shadow: 0 5px 5px black;
+text-align:left;
+padding: 10px;
+padding-left: 2%;
+padding-right: 2%;
+width: 60%;
+margin-left:18% ;
+margin-top: 5%;
+margin-bottom: 5%;
+
+ }
+
+ .imp {
+ 
+ 	text-align: center;
+ }
+ body{
+  overflow-x:hidden;
+}
+ h1 { 
+  font-size: calc(20px + 1vw); 
+  color: green !important; 
+  font-weight: bold; 
+ } 
+  
+p { 
+  font-size: calc(16px + 0.7vw);
+
+} 
+.img {
+	height: 60%;	width: 60%;
+}
+
+
+
+.list {
+	margin-left: 30px;
+	color: #0cab39;
+	list-style: disc;
+	display: list-item;
+	font-size: calc(16px + 0.7vw) ;
+}
+.red {
+	color:black ;
+	text-decoration: underline;
+}
+footer {
+	background-color: #0cab39;
+	margin-top: auto;
+	text-align: right;
+	font-size: calc(20px + 1vw);
+	padding: 20px;
+}

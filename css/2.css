@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+header {
+	background-color: aquamarine;
+	text-align: center;
+	padding: 10px;
+	font-size: calc(13px + 1vw);
+	font-family: fantasy;
+	box-shadow: 0 5px 5px black;
+
+}
+img {
+	height: 30%;
+	width: 30%;
+}
+body {
+	background-color: #034482;
+}

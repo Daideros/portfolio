@@ -1,0 +1,91 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+html {
+  background-image: url(https://jooinn.com/images/forest-tree-5.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+header {
+	background-color: #1bba0d;
+	text-align: center;
+	padding: 30px;
+	 font-size: calc(24px + 1vw);
+	font-family: sans-serif;
+	box-shadow: 0 5px 5px black;
+}
+ h1 { 
+  font-size: calc(24px + 1vw); 
+  color: #000 !important; 
+  font-weight: bold; 
+ } 
+ h2 { 
+  font-size: calc(24px + 1vw); 
+  color: #000 !important; 
+  font-weight: bold; 
+ } 
+ p { 
+  font-size: calc(16px + 0.7vw);
+
+} 
+ p { 
+  font-size: calc(16px + 0.7vw);
+
+} 
+li {font-size: calc(16px + 0.7vw); list-style: none;}
+
+a {text-decoration: none;
+color: black;}
+a:hover { color:orangered; }
+section {text-align: center;
+margin-top: 20px;
+
+
+
+
+
+
+
+}
+.p2 {
+ 	
+background-color: #1bba0d;
+
+box-shadow: 0 5px 5px black;
+text-align:left;
+padding: 10px;
+padding-left: 2%;
+padding-right: 2%;
+width: 60%;
+margin-left:18% ;
+margin-bottom: 20px;
+
+ }
+ .img {
+	height: 40%;	width: 40%;
+	margin-bottom: 20px;
+}
+.img1 {
+	height: 80%;	width: 80%;
+	margin: 50px;
+}
+.list {
+	margin-left: 30px;
+	color: #000;
+	list-style: disc;
+	display: list-item;
+	font-size: calc(16px + 0.7vw) ;
+}
+footer {
+	background-color: #1bba0d;
+	margin-top: auto;
+	text-align: right;
+	font-size: calc(20px + 1vw);
+	padding: 20px;
+}
